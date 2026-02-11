@@ -1,0 +1,9 @@
+results/
+data/raw/
+*.bam
+*.bai
+*.sam
+*.fastq
+*.zip
+.snakemake/
+
